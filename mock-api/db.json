@@ -1,0 +1,66 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "task 1",
+      "completed": true,
+      "state": "important"
+    },
+    {
+      "id": 2,
+      "text": "task 2",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "text": "task 3",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "text": "task 4",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "text": "task 5",
+      "completed": false
+    },
+    {
+      "id": 6,
+      "text": "task 6",
+      "completed": true,
+      "state": "important"
+    },
+    {
+      "text": "task 7",
+      "completed": false,
+      "state": "normal",
+      "id": 7
+    },
+    {
+      "text": "task 8",
+      "completed": false,
+      "state": "normal",
+      "id": 8
+    },
+    {
+      "text": "this is a task and write and write and write",
+      "completed": false,
+      "state": "normal",
+      "id": 9
+    },
+    {
+      "text": "create a new todo list",
+      "completed": false,
+      "state": "normal",
+      "id": 10
+    },
+    {
+      "text": "new task",
+      "completed": false,
+      "state": "normal",
+      "id": 11
+    }
+  ]
+}
